@@ -1,0 +1,19 @@
+﻿  console.cpp
+  function.cpp
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(136,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(534,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(539,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(544,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(549,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(573,65): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(575,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(577,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(579,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(589,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(591,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(593,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(595,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Admin\source\repos\gamedomin\gamedomin\function.cpp(597,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+  main.cpp
+  Generating Code...
+  gamedomin.vcxproj -> C:\Users\Admin\source\repos\gamedomin\x64\Debug\gamedomin.exe
